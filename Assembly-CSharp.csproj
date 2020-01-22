@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5B545AE6-4A0E-9A4A-5FDF-FA657C343A36}</ProjectGuid>
+    <ProjectGuid>{3E1E1F1F-3885-7DA3-C6DF-16751197BFBD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,19 +56,19 @@
      <Compile Include="Assets\CameraMotion.cs" />
      <Compile Include="Assets\Movement.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/nathan.woo/Desktop/Josh&apos;s Code/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/joshua.vai/Desktop/Wind-Guides/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/nathan.woo/Desktop/Josh&apos;s Code/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Users/joshua.vai/Desktop/Wind-Guides/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/nathan.woo/Desktop/Josh&apos;s Code/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/joshua.vai/Desktop/Wind-Guides/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/nathan.woo/Desktop/Josh&apos;s Code/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/joshua.vai/Desktop/Wind-Guides/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>/Users/nathan.woo/Desktop/Josh&apos;s Code/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>/Users/joshua.vai/Desktop/Wind-Guides/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -275,13 +275,13 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>/Users/nathan.woo/Desktop/Josh&apos;s Code/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>/Users/joshua.vai/Desktop/Wind-Guides/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>/Users/nathan.woo/Desktop/Josh&apos;s Code/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>/Users/joshua.vai/Desktop/Wind-Guides/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>/Users/nathan.woo/Desktop/Josh&apos;s Code/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>/Users/joshua.vai/Desktop/Wind-Guides/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
